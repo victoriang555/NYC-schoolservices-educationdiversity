@@ -1,4 +1,4 @@
-# PASSNYC School Services
+# NYC School Services Distribution
 
 ## Description
 Based on Kaggle project: https://www.kaggle.com/passnyc/data-science-for-good.
